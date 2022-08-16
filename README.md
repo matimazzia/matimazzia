@@ -24,3 +24,11 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matimazzia&show_icons=true&locale=en" alt="matimazzia" /></p>
+
+<h4 align="left">🔨PROYECTOS:</h4>
+
+## Dogs app
+
+<p align="rigth">
+  <img height="380" width ="1000"src="./img/landing.png" />
+</p>
