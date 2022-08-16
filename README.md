@@ -18,7 +18,7 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 🚀 Git & Github                                                                                                      
 🚀 Scrum 
 
-<h4 align="left">Connect with me:</h4>
+<h4 align="left">Contactame::</h4>
 <p align="left">
 <a href="https://www.linkedin.com/in/matias-mazzia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/matias-mazzia/" height="30" width="40" /></a>
 </p>
