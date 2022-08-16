@@ -30,5 +30,14 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 ## Dogs app
 
 <p align="rigth">
-  <img height="380" width ="1000"src="./img/landing.png" />
+  <img height="380" width ="1000"src="./img/landing.jpg" />
+</p>
+<p align="rigth">
+  <img height="380" width ="1000"src="./img/home.jpg" />
+</p>
+<p align="rigth">
+  <img height="380" width ="1000"src="./img/form.jpg" />
+</p>
+<p align="rigth">
+  <img height="380" width ="1000"src="./img/detail.jpg" />
 </p>
