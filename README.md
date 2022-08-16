@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matías Mazzia</h1>
+<h1 align="center">Hola 👋, Soy Matías Mazzia</h1>
 <h3 align="center">Apasionado Full Stack Developer de Argentina</h3>
 
 Super agradecido de que estes en mi espacio de trabajo personal, contarte que de muy chico soy apasionado del mundo IT, siempre tratando de superar mis propias expectativas, con educación y trabajo en equipo puedo decir que las estoy cumpliendo.
