@@ -28,7 +28,7 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 <h4 align="left">🔨PROYECTOS:</h4>
 
 ## Dogs app🐕‍🦺
-#### Repositorio:([matimazzia/Dogs-App](https://github.com/matimazzia/PI-Dogs-main) encontraras información detallada)
+#### Repositorio:[matimazzia/Dogs-App](https://github.com/matimazzia/PI-Dogs-main) encontraras información detallada
 
 Proyecto Individual del Bootcamp Henry 
 Me desempeñe como Full-Stack Developer
@@ -62,7 +62,7 @@ Se utilizo:
 </p>
 
 ## Worldgame app🌎
-#### Repositorio:([Feli-dev/PF-WorldGame](https://github.com/Feli-dev/PF-WorldGame)),([matimazzia/worldgame-web](https://github.com/matimazzia/PF-WorldGame))) encontraras información detallada)
+#### Repositorio:[Feli-dev/PF-WorldGame](https://github.com/Feli-dev/PF-WorldGame),[matimazzia/worldgame-web](https://github.com/matimazzia/PF-WorldGame) encontraras información detallada
 
 
 📌 Un juego de móvil desarrollado para hacer la geografía más divertida
