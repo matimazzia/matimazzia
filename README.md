@@ -44,15 +44,15 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 
 ## Worldgame app
 <h4 align="center">mobile:</h4>
-<p align="rigth">
-  <img height="600" width ="800"src="./img/pfworldgame/game.jpg" />
+<p align="center">
+  <img height="800" width ="800"src="./img/pfworldgame/game.jpg" />
 </p>
-<p align="rigth">
-  <img height="600" width ="1000"src="./img/pfworldgame/login.jpg" />
+<p align="center">
+  <img height="800" width ="800"src="./img/pfworldgame/login.jpg" />
 </p>
-<p align="rigth">
-  <img height="600" width ="1000"src="./img/pfworldgame/perfil.jpg" />
+<p align="center">
+  <img height="800" width ="800"src="./img/pfworldgame/perfil.jpg" />
 </p>
-<p align="rigth">
-  <img height="600" width ="1000"src="./img/pfworldgame/ranking.jpg" />
+<p align="center">
+  <img height="800" width ="800"src="./img/pfworldgame/ranking.jpg" />
 </p>
