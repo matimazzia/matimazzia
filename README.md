@@ -49,8 +49,6 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
   <img height="400" width ="400"src="./img/pfworldgame/login.jpg" />
 </p>
 <p align="center">
-  <img height="800" width ="800"src="./img/pfworldgame/perfil.jpg" />
-</p>
-<p align="center">
-  <img height="800" width ="800"src="./img/pfworldgame/ranking.jpg" />
+  <img height="400" width ="400"src="./img/pfworldgame/perfil.jpg" />
+  <img height="400" width ="400"src="./img/pfworldgame/ranking.jpg" />
 </p>
