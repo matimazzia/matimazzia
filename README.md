@@ -45,8 +45,8 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 ## Worldgame app
 <h4 align="center">mobile:</h4>
 <p align="center">
-  <img height="800" width ="800"src="./img/pfworldgame/game.jpg" />
-  <img height="800" width ="800"src="./img/pfworldgame/login.jpg" />
+  <img height="400" width ="400"src="./img/pfworldgame/game.jpg" />
+  <img height="400" width ="400"src="./img/pfworldgame/login.jpg" />
 </p>
 <p align="center">
   <img height="800" width ="800"src="./img/pfworldgame/perfil.jpg" />
