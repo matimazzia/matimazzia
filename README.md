@@ -27,7 +27,7 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 
 <h4 align="left">🔨PROYECTOS:</h4>
 
-## Dogs app
+## Dogs app🐕‍🦺
 
 <p align="rigth">
   <img height="600" width ="1000"src="./img/landing.jpg" />
@@ -42,7 +42,7 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
   <img height="600" width ="1000"src="./img/detail.jpg" />
 </p>
 
-## Worldgame app
+## Worldgame app🌎
 <h4 align="center">Mobile:</h4>
 <p align="center">
   <img height="400" width ="400"src="./img/pfworldgame/game.jpg" />
