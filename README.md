@@ -94,14 +94,14 @@ Tecnologías:
 </p>
 <h4 align="center">Web:</h4>
 <p align="center">
-  <img height="400" width ="500"src="./img/pfworldgame/gameweb.jpg" />
-  <img height="400" width ="500"src="./img/pfworldgame/loginweb.jpg" />
+  <img height="320" width ="400"src="./img/pfworldgame/gameweb.jpg" />
+  <img height="320" width ="400"src="./img/pfworldgame/loginweb.jpg" />
 </p>
 <p align="center">
-  <img height="400" width ="500"src="./img/pfworldgame/gamesadmin.jpg" />
-  <img height="400" width ="500"src="./img/pfworldgame/homeadmin.jpg" />
+  <img height="320" width ="400"src="./img/pfworldgame/gamesadmin.jpg" />
+  <img height="320" width ="400"src="./img/pfworldgame/homeadmin.jpg" />
 </p>
 <p align="center">
-  <img height="400" width ="500"src="./img/pfworldgame/paymentadmin.jpg" />
-  <img height="400" width ="500"src="./img/pfworldgame/useradmin.jpg" />
+  <img height="320" width ="400"src="./img/pfworldgame/paymentadmin.jpg" />
+  <img height="320" width ="400"src="./img/pfworldgame/useradmin.jpg" />
 </p>
