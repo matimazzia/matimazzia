@@ -43,7 +43,7 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 </p>
 
 ## Worldgame app
-<h4 align="center">mobile:</h4>
+<h4 align="center">Mobile:</h4>
 <p align="center">
   <img height="400" width ="400"src="./img/pfworldgame/game.jpg" />
   <img height="400" width ="400"src="./img/pfworldgame/login.jpg" />
@@ -51,4 +51,13 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 <p align="center">
   <img height="400" width ="400"src="./img/pfworldgame/perfil.jpg" />
   <img height="400" width ="400"src="./img/pfworldgame/ranking.jpg" />
+</p>
+<h4 align="center">Web:</h4>
+<p align="center">
+  <img height="300" width ="375"src="./img/pfworldgame/gameweb.jpg" />
+  <img height="300" width ="375"src="./img/pfworldgame/loginweb.jpg" />
+</p>
+<p align="center">
+  <img height="300" width ="375"src="./img/pfworldgame/gamesadmin.jpg" />
+  <img height="300" width ="375"src="./img/pfworldgame/homeadmin.jpg" />
 </p>
