@@ -29,6 +29,24 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 
 ## Dogs app🐕‍🦺
 
+Proyecto Individual del Bootcamp Henry 
+Me desempeñe como Full-Stack Developer
+
+Diseñe y desarrolle una pagina web sobre perros que incluye:
+🐕‍🦺 Búsqueda por nombre
+🐕‍🦺Filtrado y ordenamiento
+🐕‍🦺 Opción para agregar un perro
+
+Se utilizo: 
+✔ Javascript
+✔ ReactJS
+✔ Redux
+✔ CSS puro
+✔ NodeJS
+✔ Express
+✔ PostgreSQL
+✔ Sequelize
+
 <p align="rigth">
   <img height="600" width ="1000"src="./img/landing.jpg" />
 </p>
@@ -43,6 +61,24 @@ Super agradecido de que estes en mi espacio de trabajo personal, contarte que de
 </p>
 
 ## Worldgame app🌎
+📌 Un juego de móvil desarrollado para hacer la geografía más divertida
+
+Proyecto grupal final del Bootcamp Henry. 
+Me desempeñé como Front-End & Mobile Developer. 
+
+El proyecto cuenta con una versión mobile, una versión web y un panel de administrador.
+
+Tecnologías:
+🎮 Database: PostgreSQL
+🎮 Back-End: NodeJs, Express, Sequelize
+🎮 Front-End: React JS, React Native, Redux, Tailwind, Material-UI, HTML
+🎮 Librearías Adicionales: 
+✔ Socket-IO (Chat integrado)
+✔ Chart.js (Gráficas en tiempo real)
+✔ Stripe (Pasarela de pagos)
+✔ Cloudinary (Subir foto de perfil)
+✔ Nodemailer (Envío de mails)
+
 <h4 align="center">Mobile:</h4>
 <p align="center">
   <img height="400" width ="400"src="./img/pfworldgame/game.jpg" />
